@@ -3,7 +3,8 @@
 A collection of design patterns in Python
 
 # Singleton design pattern
-  
+  A singleton design pattern ensures that a class has only one instance and provides
+  a global reference point to its implementation
  
  There can be only one!
             —Connor MacLeod
