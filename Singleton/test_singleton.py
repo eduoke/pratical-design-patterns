@@ -1,4 +1,5 @@
 import pytest
+from singleton import SingletonObject
 
 class TestSingletonObject:
 
